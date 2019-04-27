@@ -1,0 +1,228 @@
+# depslib dependency file v1.0
+1525158870 source:e:\study\lap trinh nang cao\air strike\airstrike.6.0\baseobject.cpp
+	"baseobject.h"
+
+1525523275 e:\study\lap trinh nang cao\air strike\airstrike.6.0\baseobject.h
+	<iostream>
+	<string>
+	<SDL.h>
+	<SDL_mixer.h>
+	<SDL_image.h>
+	"SDL_utils.h"
+
+1525523810 e:\study\lap trinh nang cao\air strike\airstrike.6.0\sdl_utils.h
+	<iostream>
+	<string>
+	<fstream>
+	<SDL.h>
+	<SDL_image.h>
+
+1525349747 source:e:\study\lap trinh nang cao\air strike\airstrike.6.0\bullet.cpp
+	"bullet.h"
+
+1525349747 e:\study\lap trinh nang cao\air strike\airstrike.6.0\bullet.h
+	"SDL_utils.h"
+	"baseobject.h"
+
+1525158658 source:e:\study\lap trinh nang cao\air strike\airstrike.6.0\button.cpp
+	"button.h"
+
+1525154786 e:\study\lap trinh nang cao\air strike\airstrike.6.0\button.h
+	"baseobject.h"
+	"SDL_utils.h"
+
+1525076825 source:e:\study\lap trinh nang cao\air strike\airstrike.6.0\explosion.cpp
+	"explosion.h"
+
+1525076825 e:\study\lap trinh nang cao\air strike\airstrike.6.0\explosion.h
+	"baseobject.h"
+	"SDL_utils.h"
+
+1525446458 source:e:\study\lap trinh nang cao\air strike\airstrike.6.0\mainobject.cpp
+	"mainobject.h"
+
+1525446472 e:\study\lap trinh nang cao\air strike\airstrike.6.0\mainobject.h
+	"SDL_utils.h"
+	"baseobject.h"
+	"bullet.h"
+	<vector>
+
+1525451675 source:e:\study\lap trinh nang cao\air strike\airstrike.6.0\sdl_utils.cpp
+	"SDL_utils.h"
+
+1525452070 source:e:\study\lap trinh nang cao\air strike\airstrike.6.0\enemy.cpp
+	"enemy.h"
+
+1525358642 e:\study\lap trinh nang cao\air strike\airstrike.6.0\enemy.h
+	"SDL_utils.h"
+	<vector>
+	"baseobject.h"
+	"bullet.h"
+
+1525248959 source:e:\study\lap trinh nang cao\air strike\airstrike.6.0\text.cpp
+	"text.h"
+
+1525247357 e:\study\lap trinh nang cao\air strike\airstrike.6.0\text.h
+	<iostream>
+	<SDL_ttf.h>
+	<string>
+	"baseobject.h"
+	"SDL_utils.h"
+
+1525778499 source:e:\study\lap trinh nang cao\air strike\airstrike.6.0\main.cpp
+	<iostream>
+	<string>
+	<vector>
+	<cstdlib>
+	<SDL.h>
+	<SDL_mixer.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+	"SDL_utils.h"
+	"baseobject.h"
+	"mainobject.h"
+	"enemy.h"
+	"explosion.h"
+	"button.h"
+	"text.h"
+
+1525158870 source:e:\study\lap trinh nang cao\game air strike\airstrike.6.0\baseobject.cpp
+	"baseobject.h"
+
+1525523275 e:\study\lap trinh nang cao\game air strike\airstrike.6.0\baseobject.h
+	<iostream>
+	<string>
+	<SDL.h>
+	<SDL_mixer.h>
+	<SDL_image.h>
+	"SDL_utils.h"
+
+1525523810 e:\study\lap trinh nang cao\game air strike\airstrike.6.0\sdl_utils.h
+	<iostream>
+	<string>
+	<fstream>
+	<SDL.h>
+	<SDL_image.h>
+
+1525349747 source:e:\study\lap trinh nang cao\game air strike\airstrike.6.0\bullet.cpp
+	"bullet.h"
+
+1525349747 e:\study\lap trinh nang cao\game air strike\airstrike.6.0\bullet.h
+	"SDL_utils.h"
+	"baseobject.h"
+
+1525158658 source:e:\study\lap trinh nang cao\game air strike\airstrike.6.0\button.cpp
+	"button.h"
+
+1525154786 e:\study\lap trinh nang cao\game air strike\airstrike.6.0\button.h
+	"baseobject.h"
+	"SDL_utils.h"
+
+1525452070 source:e:\study\lap trinh nang cao\game air strike\airstrike.6.0\enemy.cpp
+	"enemy.h"
+
+1525358642 e:\study\lap trinh nang cao\game air strike\airstrike.6.0\enemy.h
+	"SDL_utils.h"
+	<vector>
+	"baseobject.h"
+	"bullet.h"
+
+1525076825 source:e:\study\lap trinh nang cao\game air strike\airstrike.6.0\explosion.cpp
+	"explosion.h"
+
+1525076825 e:\study\lap trinh nang cao\game air strike\airstrike.6.0\explosion.h
+	"baseobject.h"
+	"SDL_utils.h"
+
+1525446458 source:e:\study\lap trinh nang cao\game air strike\airstrike.6.0\mainobject.cpp
+	"mainobject.h"
+
+1525446472 e:\study\lap trinh nang cao\game air strike\airstrike.6.0\mainobject.h
+	"SDL_utils.h"
+	"baseobject.h"
+	"bullet.h"
+	<vector>
+
+1525451675 source:e:\study\lap trinh nang cao\game air strike\airstrike.6.0\sdl_utils.cpp
+	"SDL_utils.h"
+
+1525248959 source:e:\study\lap trinh nang cao\game air strike\airstrike.6.0\text.cpp
+	"text.h"
+
+1525247357 e:\study\lap trinh nang cao\game air strike\airstrike.6.0\text.h
+	<iostream>
+	<SDL_ttf.h>
+	<string>
+	"baseobject.h"
+	"SDL_utils.h"
+
+1525158870 source:d:\study\[passed subject]\lap trinh nang cao\game projects\game air strike\airstrike.6.0\baseobject.cpp
+	"baseobject.h"
+
+1525523275 d:\study\[passed subject]\lap trinh nang cao\game projects\game air strike\airstrike.6.0\baseobject.h
+	<iostream>
+	<string>
+	<SDL.h>
+	<SDL_mixer.h>
+	<SDL_image.h>
+	"SDL_utils.h"
+
+1525523810 d:\study\[passed subject]\lap trinh nang cao\game projects\game air strike\airstrike.6.0\sdl_utils.h
+	<iostream>
+	<string>
+	<fstream>
+	<SDL.h>
+	<SDL_image.h>
+
+1525349747 source:d:\study\[passed subject]\lap trinh nang cao\game projects\game air strike\airstrike.6.0\bullet.cpp
+	"bullet.h"
+
+1525349747 d:\study\[passed subject]\lap trinh nang cao\game projects\game air strike\airstrike.6.0\bullet.h
+	"SDL_utils.h"
+	"baseobject.h"
+
+1525158658 source:d:\study\[passed subject]\lap trinh nang cao\game projects\game air strike\airstrike.6.0\button.cpp
+	"button.h"
+
+1525154786 d:\study\[passed subject]\lap trinh nang cao\game projects\game air strike\airstrike.6.0\button.h
+	"baseobject.h"
+	"SDL_utils.h"
+
+1525452070 source:d:\study\[passed subject]\lap trinh nang cao\game projects\game air strike\airstrike.6.0\enemy.cpp
+	"enemy.h"
+
+1525358642 d:\study\[passed subject]\lap trinh nang cao\game projects\game air strike\airstrike.6.0\enemy.h
+	"SDL_utils.h"
+	<vector>
+	"baseobject.h"
+	"bullet.h"
+
+1525076825 source:d:\study\[passed subject]\lap trinh nang cao\game projects\game air strike\airstrike.6.0\explosion.cpp
+	"explosion.h"
+
+1525076825 d:\study\[passed subject]\lap trinh nang cao\game projects\game air strike\airstrike.6.0\explosion.h
+	"baseobject.h"
+	"SDL_utils.h"
+
+1525446458 source:d:\study\[passed subject]\lap trinh nang cao\game projects\game air strike\airstrike.6.0\mainobject.cpp
+	"mainobject.h"
+
+1525446472 d:\study\[passed subject]\lap trinh nang cao\game projects\game air strike\airstrike.6.0\mainobject.h
+	"SDL_utils.h"
+	"baseobject.h"
+	"bullet.h"
+	<vector>
+
+1525451675 source:d:\study\[passed subject]\lap trinh nang cao\game projects\game air strike\airstrike.6.0\sdl_utils.cpp
+	"SDL_utils.h"
+
+1525248959 source:d:\study\[passed subject]\lap trinh nang cao\game projects\game air strike\airstrike.6.0\text.cpp
+	"text.h"
+
+1525247357 d:\study\[passed subject]\lap trinh nang cao\game projects\game air strike\airstrike.6.0\text.h
+	<iostream>
+	<SDL_ttf.h>
+	<string>
+	"baseobject.h"
+	"SDL_utils.h"
+

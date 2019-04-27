@@ -1,0 +1,687 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"i",
+				"i"
+			],
+			[
+				"numOf",
+				"numOfMatch"
+			],
+			[
+				"fo",
+				"football_team"
+			],
+			[
+				"num",
+				"numOfTeam"
+			],
+			[
+				"nu",
+				"numOfTeam"
+			],
+			[
+				"numOF",
+				"numOfTeam"
+			],
+			[
+				"teamNa",
+				"teamName1"
+			],
+			[
+				"team",
+				"teamName"
+			],
+			[
+				"edge",
+				"edge3"
+			],
+			[
+				"ed",
+				"edge3"
+			],
+			[
+				"to",
+				"numberOfTower"
+			],
+			[
+				"he",
+				"heightOfTower"
+			],
+			[
+				"eve",
+				"evenArray"
+			],
+			[
+				"cou",
+				"countLucky"
+			],
+			[
+				"number",
+				"numberOfLuckyNumber"
+			],
+			[
+				"gue",
+				"guessedWord"
+			],
+			[
+				"co",
+				"contains"
+			],
+			[
+				"cho",
+				"chooseWord"
+			],
+			[
+				"draw",
+				"drawExit"
+			],
+			[
+				"dra",
+				"drawVictory"
+			],
+			[
+				"dr",
+				"drawGameOver"
+			],
+			[
+				"endl",
+				"endSelect"
+			],
+			[
+				"end",
+				"endSelect"
+			],
+			[
+				"gre",
+				"greedy"
+			],
+			[
+				"n",
+				"n"
+			],
+			[
+				"min",
+				"minAbsDif"
+			],
+			[
+				"arr",
+				"arrayCheck"
+			],
+			[
+				"books",
+				"bookSearchByAuthor"
+			],
+			[
+				"bookSearch",
+				"bookSearchByAuthor"
+			],
+			[
+				"bookS",
+				"bookSearchByAuthor"
+			],
+			[
+				"check",
+				"checkCmp"
+			],
+			[
+				"address",
+				"addressHead"
+			],
+			[
+				"bir",
+				"birthYear"
+			],
+			[
+				"add",
+				"addressHead"
+			],
+			[
+				"studentEditB",
+				"studentEditBirthYear"
+			],
+			[
+				"studentEdit",
+				"studentEditByIDMenu"
+			],
+			[
+				"bi",
+				"birthYear"
+			],
+			[
+				"ID",
+				"studentID"
+			],
+			[
+				"studentIn",
+				"studentInsertMenu"
+			],
+			[
+				"temp",
+				"tempName"
+			],
+			[
+				"ten",
+				"tempName"
+			],
+			[
+				"studentSearch",
+				"studentSearchByName"
+			],
+			[
+				"p",
+				"pTemp"
+			],
+			[
+				"studentSear",
+				"studentSearchByID"
+			],
+			[
+				"studentSe",
+				"studentSearchMenu"
+			],
+			[
+				"stu",
+				"studentPrintList"
+			],
+			[
+				"inp",
+				"inputNewStudent"
+			],
+			[
+				"ad",
+				"addressHead"
+			],
+			[
+				"new",
+				"newStudent"
+			],
+			[
+				"vic",
+				"victimChance"
+			],
+			[
+				"is",
+				"isValidChance"
+			],
+			[
+				"main",
+				"mainArray"
+			],
+			[
+				"mai",
+				"mainArray"
+			],
+			[
+				"count",
+				"countCount"
+			],
+			[
+				"o",
+				"organizeIncrease"
+			],
+			[
+				"prin",
+				"printArray"
+			],
+			[
+				"fi",
+				"findRareNum"
+			],
+			[
+				"find",
+				"findCrowdedNum"
+			],
+			[
+				"organ",
+				"organizeDecrease"
+			],
+			[
+				"student",
+				"studentNum"
+			],
+			[
+				"dele",
+				"deleteStudentData"
+			],
+			[
+				"pri",
+				"printStudentsData"
+			],
+			[
+				"SIZ",
+				"SIZE_NAME"
+			],
+			[
+				"stud",
+				"studentData"
+			],
+			[
+				"stdu",
+				"studentNum"
+			],
+			[
+				"sea",
+				"searcher"
+			],
+			[
+				"char",
+				"character"
+			],
+			[
+				"cha",
+				"character"
+			],
+			[
+				"c",
+				"check"
+			],
+			[
+				"in",
+				"inputStudentsData"
+			],
+			[
+				"ho",
+				"ho_ten"
+			],
+			[
+				"a",
+				"average_score"
+			],
+			[
+				"ch",
+				"checkScore"
+			],
+			[
+				"ma",
+				"MAX"
+			],
+			[
+				"t",
+				"tPrime"
+			],
+			[
+				"str",
+				"strlength"
+			],
+			[
+				"st",
+				"strlength"
+			],
+			[
+				"mu",
+				"multiply_condition"
+			],
+			[
+				"matrix_re",
+				"matrix_result_1"
+			],
+			[
+				"lie",
+				"line2"
+			],
+			[
+				"mul",
+				"multiplyCondition"
+			],
+			[
+				"matri",
+				"matrix_result"
+			],
+			[
+				"mat",
+				"matrix_1"
+			],
+			[
+				"matr",
+				"matrix_result"
+			],
+			[
+				"cl",
+				"column2"
+			],
+			[
+				"M",
+				"MultiplyMatrix"
+			],
+			[
+				"m",
+				"multiplyCondition"
+			],
+			[
+				"col",
+				"column1"
+			],
+			[
+				"input",
+				"inputColumn"
+			],
+			[
+				"prime",
+				"prime_1"
+			],
+			[
+				"de",
+				"denominator"
+			],
+			[
+				"g",
+				"g_a"
+			],
+			[
+				"dia",
+				"diag"
+			],
+			[
+				"di",
+				"diag"
+			],
+			[
+				"I",
+				"Input"
+			],
+			[
+				"h",
+				"height"
+			],
+			[
+				"scan",
+				"scanRow"
+			],
+			[
+				"d",
+				"diag"
+			],
+			[
+				"chi",
+				"chieuRong"
+			],
+			[
+				"P",
+				"Pepsi"
+			],
+			[
+				"f",
+				"float"
+			],
+			[
+				"re",
+				"result"
+			],
+			[
+				"print",
+				"printScreen"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 490.0,
+		"last_filter": "Package Control: ",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Add Channel"
+			]
+		],
+		"width": 609.0
+	},
+	"console":
+	{
+		"height": 206.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/E/Study/Nhap/LINH TINH/Hackerrank.cpp",
+		"/C/Users/Admin/Downloads/main.cpp",
+		"/E/Study/Tin hoc co so 4/Bai thuc hanh so 10.1.c",
+		"/E/Study/Tin hoc co so 4/Bai thuc hanh so 10.c",
+		"/E/Study/Tin hoc co so 4/Student Manager 3/StudentManager.3.3.c",
+		"/E/Study/Nhap/LINH TINH/quan li danh sach hoc sinh.c",
+		"/E/Study/Nhap/Debug/dcmdebug/main.cpp",
+		"/E/Study/Lap trinh nang cao/Air Strike/AirStrike.6.0/main.cpp",
+		"/E/Study/Lap trinh nang cao/Air Strike/AirStrike2D/main.cpp",
+		"/E/Study/Lap trinh nang cao/Lec7_MovingWheel/MovingWheel/main.cpp",
+		"/E/Study/HRTECH - Education/Data Structures and Algorithms/Recursion/to_hop/main.cpp",
+		"/E/Study/HRTECH - Education/Data Structures and Algorithms/Recursion/to_hop/to_hop.cbp",
+		"/E/Study/Lap trinh nang cao/Lec7_keyboard/Lec7_keyboard.cpp",
+		"/E/Study/Lap trinh nang cao/advprogram-master/lec12-snake/Game.cpp",
+		"/E/Study/Lap trinh nang cao/advprogram-master/lec12-snake/Game.h",
+		"/E/Study/Lap trinh nang cao/advprogram-master/lec12-snake/Position.h",
+		"/E/Study/Lap trinh nang cao/advprogram-master/lec12-snake/Snake.h",
+		"/E/Study/Lap trinh nang cao/advprogram-master/lec12-snake/Gallery.h",
+		"/E/Study/Lap trinh nang cao/Lec7_bitmap/bmpimage.cpp",
+		"/E/Study/Lap trinh nang cao/Air Strike/AirStrike-0.0/SDL_utils.h",
+		"/E/Study/Lap trinh nang cao/Air Strike/AirStrike-0.0/painter.cpp",
+		"/E/Study/Lap trinh nang cao/Air Strike/AirStrike-0.0/painter.h",
+		"/E/Study/HRTECH - Education/Data Structures and Algorithms/Recursion/Tổ hợp/to_hop.cpp",
+		"/E/Study/HRTECH - Education/Data Structures and Algorithms/Recursion/Hoán vị/hoan_vi.cpp",
+		"/E/Study/BTVN_daotaoNhom2/anhp.c.6.0/anhp.c",
+		"/E/Study/Lap trinh nang cao/advprogram-master/lec10-sdl/main.cpp",
+		"/E/Study/Lap trinh nang cao/Lec8_Painter/Test Painter/include/painter.h",
+		"/E/Study/Lap trinh nang cao/Air Strike/AirStrike-0.0/SDL2_image.dll",
+		"/E/Study/Lap trinh nang cao/Air Strike/AirStrike-0.0/main.cpp",
+		"/E/Study/Nhap/LINH TINH/CODEFORCES.cpp",
+		"/E/Entertainment/Games/Counter Strike 1.6/cstrike/config.cfg",
+		"/E/Entertainment/Games/Counter Strike 1.6/cstrike/banned.cfg",
+		"/E/Study/Lap trinh nang cao/Lec7_MovingWheel/MovingWheel/bin/Debug/SDL2.dll",
+		"/E/Study/Lap trinh nang cao/Lec7_MovingWheel/MovingWheel/MovingWheel.cbp",
+		"/E/Study/Lap trinh nang cao/Lec7_keyboard.cpp",
+		"/E/Study/Lap trinh nang cao/hangMan.cpp",
+		"/E/Study/Lap trinh nang cao/hangman/hangman.2.2/hangman.2.2.cpp",
+		"/C/Users/Admin/Desktop/whatever.html",
+		"/E/Study/Kien truc may tinh/Tài liệu/Fibonacci.asm",
+		"/C/Users/Admin/Desktop/dcm.html",
+		"/E/Study/Lap trinh nang cao/hangman/hangman.0.3.cpp",
+		"/E/Study/Lap trinh nang cao/hangman/hangman.0.2.1.cpp",
+		"/E/Study/Lap trinh nang cao/hangman/hangman.0.1.cpp",
+		"/C/Users/Admin/AppData/Roaming/Sublime Text 3/Packages/User/myC++.sublime-build",
+		"/C/Users/Admin/AppData/Roaming/Sublime Text 3/Packages/User/myC.sublime-build",
+		"/E/Study/Nhap/LINH TINH/Untitled1.c",
+		"/E/Study/BTVN_daotaoNhom2/anhp.c.8.0.c",
+		"/E/Study/BTVN_daotaoNhom2/anhp.c.5.0.c",
+		"/E/Study/Nhap/LINH TINH/UETCODEHUB.c",
+		"/E/Study/Tin hoc co so 4/De cuong bai 1.c",
+		"/E/Study/BTVN_daotaoNhom2/anhp.c.8.c",
+		"/E/Student Manager 3/StudentManager.3.3.c",
+		"/E/Study/BTVN_daotaoNhom2/anhp.c.6.0/anhp.c.6.0.dev.c",
+		"/E/Study/BTVN_daotaoNhom2/anhp.c.6.0/anhp.c.6.0.c",
+		"/E/Study/CBasic.c",
+		"/E/Student Manager 3/StudentManager.3.1.c",
+		"/E/Study/Nhap/Add/Untitled1.cpp",
+		"/E/Student Manager 3.0/StudentManager.3.0.c",
+		"/C/Users/Admin/Downloads/StudentManager.3.0 (1).c",
+		"/C/Users/Admin/Downloads/StudentManager.3.0.c",
+		"/E/Student Manager 3.0/ManagerStudent3.0.c",
+		"/C/Users/Admin/Desktop/ManagerStudent3.0.c",
+		"/E/Study/Tin hoc co so 4/PHAN MEM QUAN LI SINH VIEN/main.c",
+		"/C/Users/Admin/Downloads/ManagerStudent3.0.c",
+		"/C/Users/Admin/Downloads/.c",
+		"/C/Program Files (x86)/Microsoft Visual Studio/2017/Enterprise/Common7/IDE/devenv.exe",
+		"/C/Program Files (x86)/ASUS/ROG Gaming Center/ROGGamingCenter.exe",
+		"/E/Study/Tin hoc co so 4/PHAN MEM QUAN LI SINH VIEN/student.h",
+		"/E/Study/Tin hoc co so 4/Big homework/Big_Homework.c",
+		"/E/Study/Tin hoc co so 4/PHAN MEM QUAN LI SINH VIEN/student.c",
+		"/E/Study/BTVN_daotaoNhom2/New folder/main.o",
+		"/E/Study/BTVN_daotaoNhom2/New folder/main.c",
+		"/E/Study/BTVN_daotaoNhom2/New folder/anhp.h",
+		"/E/Study/BTVN_daotaoNhom2/New folder/anhp.c",
+		"/C/Users/Admin/Desktop/main.o",
+		"/E/Study/BTVN_daotaoNhom2/anhp.c.6.0.c",
+		"/E/Study/BTVN_daotaoNhom2/anhp.c.6.0/anhp.h",
+		"/E/Study/BTVN_daotaoNhom2/anhp.c.6.0.h",
+		"/C/Users/Admin/Desktop/CBasic.c",
+		"/C/Program Files (x86)/Dev-Cpp/MinGW64/x86_64-w64-mingw32/include/ctype.h",
+		"/C/Program Files (x86)/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.8.1/include/c++/tr1/ctype.h",
+		"/C/Program Files (x86)/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.8.1/include/ssp/string.h",
+		"/C/Program Files (x86)/Dev-Cpp/MinGW64/x86_64-w64-mingw32/include/string.h",
+		"/C/Program Files (x86)/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.8.1/include/c++/tr1/stdio.h",
+		"/C/Program Files (x86)/Dev-Cpp/MinGW64/x86_64-w64-mingw32/include/stdio.h",
+		"/C/Program Files (x86)/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.8.1/include/ssp/stdio.h",
+		"/E/Study/BTVN_daotaoNhom2/anhp.5.0.c",
+		"/E/Study/BTVN_daotaoNhom2/anhp.c.4.0.c",
+		"/E/Study/BTVN_daotaoNhom2/anhp.c.4.4.c",
+		"/E/Study/BTVN_daotaoNhom2/anhp.c.4.3.c",
+		"/E/Study/BTVN_daotaoNhom2/anhp.c.4.2.c",
+		"/E/Study/BTVN_daotaoNhom2/anhp.c.2.1.c",
+		"/E/Study/BTVN_daotaoNhom2/anhp.c.3.0.c",
+		"/E/Study/BTVN_daotaoNhom2/anhp.c.3.2.c",
+		"/E/Study/BTVN_daotaoNhom2/anhp.c.3.1.c",
+		"/E/Study/BTVN_daotaoNhom2/anhp.c.2.2.c",
+		"/E/Study/BTVN_daotaoNhom2/anhp.c.2.3.c",
+		"/E/Study/BTVN_daotaoNhom2/anhp.c.2.4.c",
+		"/E/Study/Nhap/LINH TINH/anhp.c.2.4.c",
+		"/E/Study/Nhap/LINH TINH/anhp.c.2.3.c",
+		"/E/Study/Nhap/LINH TINH/anhp.c.2.1.c",
+		"/E/Study/Nhap/LINH TINH/anhp.c.2.2.c",
+		"/E/Study/Nhap/LINH TINH/UETCODEHUB",
+		"/E/Study/Nhap/LINH TINH/anhphan.c.1.1.c",
+		"/C/Users/Admin/AppData/Roaming/Sublime Text 3/Packages/User/Package Control.sublime-settings",
+		"/C/Users/Admin/AppData/Roaming/Sublime Text 3/Packages/Package Control/Package Control.sublime-settings"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 54.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/User/myC++.sublime-build",
+	"project": "AirStrike.6.0.sublime-project",
+	"replace":
+	{
+		"height": 63.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 188.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
